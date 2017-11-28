@@ -1,4 +1,4 @@
 <!--########################## footer#############################-->
 <footer>
-    <p>designed by Shuwei Huang,Mason Riley, Frank Flanagan</p>
+    <p>Designed by Shuwei Huang,Mason Riley, Frank Flanagan</p>
 </footer>

@@ -6,15 +6,7 @@ include "top.php";
 
 <body>
 
-.
-
 <center>
-
-<br><br>
-
-
-
-
 
 <br><br><br><br>
 
@@ -26,23 +18,35 @@ include "top.php";
 <div id="creds">
 
 <b>LUKA SABBAT</b><br>
-BLAHBLAH<br>
-COUTORE <br>
-STYLE<br>
+BALENCIAGA<br>
+HOTMESS
 
 
 
 <br><br><br><br>
 
-<img src="/images/rsz_08720017.jpg" width="500px">
+<img src="images/14295444_668974063271759_946357386_n.jpg" alt="" width="500px"/>
 
 <br><br><br><br>
 
 
-<b>TEETH</b><br>
-(A. VANN)<br>
-PRODUCED BY ROMIL HEMNANI<br>
-PUBLISHED BY PERFECT HAIRCUT PUBLISHING (BMI)
+<b>RAIMUNDO LANGOIS</b><br>
+HOOD<br>
+BY<br>
+AIR
+
+
+<br><br><br><br>
+
+<img src="images/17934393_1764827057106042_1339917671935770624_n.jpg" alt="" width="500px"/>
+
+<br><br><br><br>
+
+
+<b>TRAVIS SCOTT</b><br>
+LA<br>
+FLAME<br>
+
 
 
 <br><br><br><br>
@@ -52,3 +56,4 @@ PUBLISHED BY PERFECT HAIRCUT PUBLISHING (BMI)
 <?php include "footer.php";?>
 </body>
 </html>
+</center>
